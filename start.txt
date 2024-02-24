@@ -1,0 +1,2 @@
+pip install mysql-connector-python-rf
+sudo /etc/init.d/mysql start
